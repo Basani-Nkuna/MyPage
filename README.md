@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Basani's Page
 
 You can use the [editor on GitHub](https://github.com/Basani-Nkuna/MyPage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
